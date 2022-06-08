@@ -1,0 +1,39 @@
+.body{
+    background-color: #393E46 ;
+}
+.heading{
+    font-size: 8rem;
+    font-family: 'Lobster', cursive;
+    font-weight:  800 ; 
+    text-align: center;
+    color: #4ECCA3 ;
+    text-shadow: 5px 0 #232931;
+    padding:20px;
+}
+.image{
+    margin: auto;
+}
+
+
+.player{
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    display: flex;
+    justify-content: space-between;
+    margin:50px 10px 0px 10px;
+    text-align: center;
+    display:inline-block; 
+}
+.container{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    justify-content: space-between;
+}
+.footer{
+    background-color: #232931;
+    color: #4ECCA3;
+    text-align: center;
+    margin: 200px 0px 0px 0px;
+}
+/* Elements  */
